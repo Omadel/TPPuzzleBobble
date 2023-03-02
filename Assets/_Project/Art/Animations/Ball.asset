@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289bc996b5dd9d54d8eef48bb17a3e1e, type: 3}
+  m_Name: Ball
+  m_EditorClassIdentifier: 
+  duration: 4.5833335
+  fps: 12
+  frames:
+  - sprite: {fileID: 2128251610, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 1
+  - sprite: {fileID: -1571874341, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 1
+  - sprite: {fileID: 397457015, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 1
+  - sprite: {fileID: -1861290798, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 1
+  - sprite: {fileID: -371453081, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 1
+  - sprite: {fileID: 799550719, guid: cb917452539bf5b468c3a22a8df1c67c, type: 3}
+    duration: 50
+  timedAnimationEvents: []
